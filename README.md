@@ -10,5 +10,11 @@ Utilizando NPM : npm install -g vertx3-full
 
 Alternativas en: http://vertx.io/download/
 
+INTRODUCCION A VERTEX
+
+1. Explorar Vertx.io
+2. Completar el laboratorio "Vert.x from Zero to (micro)-hero":  http://vertx-lab.dynamis-technologies.com/#_preface
+
+
 
  
